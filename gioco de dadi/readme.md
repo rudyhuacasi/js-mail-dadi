@@ -15,3 +15,21 @@ Consigli del giorno:
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo “a mano”
 Ricordate: non potete utilizzare metodi built-in (già disponibili) degli array.
 Ricordate: il primo push dovrà essere un file README.md contenente la risoluzione degli esercizi in linguaggio naturale!
+
+javascript
+
+//GIOCATORE
+// definisco una variabile per generare un numero random
+// aggiungo due alert: 
+//la prima per sapere chi è?
+//la seconda per sapere il numero random che ha ricevuto
+
+//COMPUTER
+// definisco una variabile per generare un numero random
+// aggiungo due alert: 
+//la prima per sapere chi è?
+//la seconda per sapere il numero random che ha ricevuto
+
+// aggiungo una condizionale per ilvincitore tra il giocatore o computer e anche se hanno pareggiato
+
+
