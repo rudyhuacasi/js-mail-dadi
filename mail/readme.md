@@ -22,4 +22,4 @@ javascript
 
 // definisco un ciclo da zero a il numero delle persone della lista
 
-        // aggiungo una condizionale per le persone sono nelle lista
+    // aggiungo una condizionale per le persone sono nelle lista
