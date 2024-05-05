@@ -12,3 +12,14 @@ Consigli del giorno:
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo “a mano”
 Ricordate: non potete utilizzare metodi built-in (già disponibili) degli array.
 Ricordate: il primo push dovrà essere un file README.md contenente la risoluzione degli esercizi in linguaggio naturale!
+
+javascript
+//definisco una variabile chiedendo il email
+
+//definisco una variabile per fare un array de una lista
+
+// definisco una variabile per contare il numero delle persone della lista
+
+// definisco un ciclo da zero a il numero delle persone della lista
+
+        // aggiungo una condizionale per le persone sono nelle lista
